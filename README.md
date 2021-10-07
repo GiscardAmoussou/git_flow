@@ -1,1 +1,1 @@
-# Git flow example
+# Git flow sample
